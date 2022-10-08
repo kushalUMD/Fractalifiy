@@ -4,6 +4,6 @@
 NFT art generator which uses data structures and Artificial Intelligence to create each piece.
 
 ## Description
-A collection of 30 algorithmically generated artwork. Each unique piece has a title generated from the OPENAI GPT-3 Model. Also, the art it self uses a quad tree data structure along with fractal trees to create a unique drawing.
+A collection of 30 algorithmically generated artwork. Each unique piece has a title generated from the OPENAI GPT-3 Model API. Also, the art it self uses a quad tree data structure along with fractal trees to create a unique drawing.
 
 Hosted on Google Firebase, may take a few seconds to load.
